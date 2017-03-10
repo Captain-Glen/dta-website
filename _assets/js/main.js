@@ -7,5 +7,6 @@
 //= require 'vendor/URI'
 //= require 'vendor/jquery.lunr.search'
 //= require search
+//= require searchbar
 
 //= require assessment-tabs

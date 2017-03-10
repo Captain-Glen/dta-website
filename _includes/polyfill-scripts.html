@@ -1,0 +1,13 @@
+
+<!--[if lt IE 9]>
+  {% js eventListenerIEPolyfill %}
+<![endif]-->
+
+<script>
+  //Polyfill String.contains
+  if ( !String.prototype.contains ) {
+      String.prototype.contains = function() {
+          return String.prototype.indexOf.apply( this, arguments ) !== -1;
+      };
+  }
+</script>
