@@ -32,9 +32,39 @@ $alpha: #c52a72;
 $beta: #cf4a10;
 $live: #859949;
 
+// Imports UI-Kit: https://github.com/govau/uikit
+@import 'uikit';
 
-// Imports UI-Kit: https://github.com/AusDTO/gov-au-ui-kit
-@import 'dto-ui-kit/assets/sass/ui-kit';
+// TODO: use uikit2 for the below
+
+// Spacing vars from uikit 1
+$base-spacing: 1.6 * 1em;
+$large-spacing: $base-spacing * 2;
+$medium-spacing: $base-spacing * 0.75;
+$small-spacing: $base-spacing / 2;
+$tiny-spacing: $base-spacing / 4;
+
+// Colour constants from uikit 1
+
+$black:         #000;
+$non-black:     #313131;
+$grey:          #6e6e6e;
+$light-grey:    lighten($grey, 30%);
+$non-white:     #f0f3f5;
+$white:         #fff;
+$aqua:          #18788d;
+$dark-aqua:     darken($aqua, 5%);
+$darker-aqua:   darken($aqua, 10%);
+$light-aqua:    lighten($aqua, 30%);
+$lighter-aqua:  lighten($aqua, 60%);
+$navy:          #043751;
+$dark-navy:     darken($navy, 10%);
+$maroon:        #880e48;
+
+// Font weights from uikit 1
+$base-font-weight: 400;
+$bold-font-weight: 700;
+$heading-font-weight: $bold-font-weight;
 
 // Import partials from `partials`
 @import 'partials/accordions';
