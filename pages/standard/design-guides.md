@@ -2,19 +2,28 @@
 title: Guides
 layout: standard
 permalink: /standard/design-guides/
-breadcrumb: Design guides
+breadcrumb: Guides
 lede: Helping you meet the Digital Service Standard.
 weight: 50
 phase: 'Alpha'
 redirect_from: /design-guides/
 ---
-The guides are a growing collection of information to help Australian Government agencies meet the [Digital Service Standard](/standard/). The Digital Service Standard helps us to build services that are simpler, faster and easier for all users.
 
-We are building [GOV.AU Guides](http://guides.service.gov.au/design-guide/), which will support the Digital Service Standard through common design patterns and a style guide. The GOV.AU Guides will help designers, developers, and content writers and editors to create and maintain a consistent user experience across government services.
+We are working to make guidance about the [Digital Service Standard](/standard/) simpler, clearer and faster.
 
-We have also started to write a [Service Handbook](https://ausdto.github.io/service-handbook/), which provides greater detail on the stages of the [service design and delivery process](/standard/service-design-and-delivery-process/).
+## GOV.AU Guides
 
-We encourage you to provide feedback on the guides and make suggestions for additional guides: [standard@digital.gov.au](mailto:standard@digital.gov.au). Your input will help us develop the guidance you need to deliver easy to use, trusted and cost-effective digital services.
+The <a href="https://guides.service.gov.au/" rel="external">GOV.AU Guides</a> include a <a href="https://guides.service.gov.au/content-guide/" rel="external">Content Guide</a> and the <a href="https://github.com/govau/uikit" rel="external">UI-Kit CSS and JavaScript framework</a>.
+
+### Please get involved
+
+**Service Design Government Community**: email [leisa.reichelt@digital.gov.au](mailto:leisa.reichelt@digital.gov.au) Head of Service Design and Professional Communities.
+
+**Content Design Government Community**: email [content@digital.gov.au](mailto:content@digital.gov.au).
+
+**Guides team**: email <a href="mailto:guides@digital.gov.au">guides@digital.gov.au</a>.
+
+## Other guidance
 
 <div class="dss-guides">
 
@@ -29,3 +38,5 @@ We encourage you to provide feedback on the guides and make suggestions for addi
 </ul>
 
 </div>
+
+**Last updated**: 9 May 2017
